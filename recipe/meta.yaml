@@ -69,7 +69,7 @@ about:
     can export it as high-resolution image or vector-graphic for further editing. 
     Leveraging the powers of matplotlib, you can also embed interactive maps in 
     Jupyter Notebooks, on a webpage or in GUI frameworks like Qt, tkinter etc..
-    
+
     Check the documentation for more details & examples!
 
   doc_url: https://eomaps.readthedocs.io/
